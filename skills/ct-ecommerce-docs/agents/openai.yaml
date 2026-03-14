@@ -1,0 +1,5 @@
+interface:
+  display_name: "CT Ecommerce Docs"
+  short_description: "Generate Coalition ecommerce documentation"
+  brand_color: "#007EA8"
+  default_prompt: "Use $ct-ecommerce-docs to generate or update client documentation for this ecommerce project."
